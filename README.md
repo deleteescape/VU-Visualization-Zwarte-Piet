@@ -1,4 +1,4 @@
-# VU-Visualization-Zwarte-Piet
+# VU Visualization Project: Zwarte Piet Debate
 This repository hosts files used for the Visualizing Humanities project about media coverage on the debate around the appearance of Zwarte Piet.
 
 <b>Contents</b><br />
